@@ -7,7 +7,7 @@ MyToken is a simple ERC-20 compatible token built on Ethereum for learning purpo
 - **Name**: MyToken
 - **Symbol**: MTK
 - **Decimals**: 18
-- **Total Supply**: 1,000,000 MTK
+- **Total Supply**: 1,000,000 MTK 
 
 ## Features
 - ✅ Standard ERC-20 implementation
