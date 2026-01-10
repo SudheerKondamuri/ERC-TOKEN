@@ -1,0 +1,4 @@
+.deploys/
+.states/
+artifacts/
+.env
