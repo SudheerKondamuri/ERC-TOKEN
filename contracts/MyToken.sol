@@ -91,8 +91,6 @@ contract MyToken {
                  allowance[_from][msg.sender] -= _value;
                 // Add to recipient's balance
                 balanceOf[_to] += _value;
-                // Decrease allowance
-                allowance[_from][msg.sender] -= _value;
                 
                 // Emit Transfer event
                 emit Transfer(_from, _to, _value);
